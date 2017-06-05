@@ -141,10 +141,12 @@ export const Beginners = () => (
 
         <p>We want to make the event accessible to Haskellers at all levels,
            which is why we will have dedicated mentors, two codelab projects
-           and beginner-level Haskell exercises.
+           and beginner-level Haskell exercises. If you're a bit further ahead
+           with Haskell we would strongly suggest you to jump in and contribute
+           to one of the projects listed above.
         </p>
 
-        <p>You can identify mentors from the black Zurihac shirt. They welcome
+        <p>You can identify our mentors by the black Zurihac shirt. They welcome
            any questions you may have, so please grab them if you have any issues
            or questions.
         </p>
@@ -152,7 +154,7 @@ export const Beginners = () => (
         <h2>Codelab: memegen</h2>
         <p>
            The memegen codelab is <a href="https://github.com/jaspervdj/haskell-beginners-projects/blob/master/memegen/codelab/memegen_codelab.md">available on GitHub</a>.
-           It guides you step by step through the implementation of a memegen server in Haskell.
+           It guides you step by step through the implementation of a memegen web application in Haskell.
            Its intended audience are people that want to learn more about writing
            web application servers in Haskell.
         </p>
@@ -160,7 +162,7 @@ export const Beginners = () => (
         <h2>Codelab: webwatch</h2>
         <p>
           The <a href="https://github.com/jaspervdj/haskell-beginners-projects/blob/master/webwatch/codelab/webwatch_codelab.md">webwatch codelab</a> introduces
-          you to client-side HTTP programming with a command-line webpage
+          you to client-side HTTP programming and HTML parsing with a command-line webpage
           watcher utility that watches a webpage for links with a certain
           text and will send a Slack message when one is found.
         </p>
